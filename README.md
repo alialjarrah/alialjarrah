@@ -5,6 +5,9 @@
    <a href="https://www.instagram.com/alijarrah7/" target="_blank"><img src="https://img.shields.io/badge/instagram-%23E4415F?style=flat&logo=instagram&logoColor=white" /></a>
    <a href="https://www.facebook.com/ali.aljrrah/" target="_blank"><img src="https://img.shields.io/badge/facebook-%231298f6?style=flat&logo=facebook&logoColor=white" /></a>
   </p>
+  
+  <img src="" align="right" width="25%" />
+  
 - 👋 Hi, I’m @alialjarrah
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
