@@ -6,9 +6,8 @@
    <a href="https://www.facebook.com/ali.aljrrah/" target="_blank"><img src="https://img.shields.io/badge/facebook-%231298f6?style=flat&logo=facebook&logoColor=white" /></a>
   </p>
   
-  <img src="https://github.com/alialjarrah/ali/blob/main/img/profile-img.png" align="right" width="25%" />
+  <img src="https://github.com/alialjarrah/ali/blob/d37b569eadab3b28eaf9422cada9ed12c46a7928/profile-img.png" align="right" width="25%" />
   
-- 👋 Hi, I’m @alialjarrah
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
